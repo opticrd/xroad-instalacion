@@ -54,7 +54,7 @@ apt remove --purge apache2 nginx;
 Una vez desinstalados los paquetes por defecto procedemos a instalar algunos paquetes necesarios, pero primero vamos a descargar los paquetes del repositorio oficial y para ello ejecutamos el siguiente comando:
 
 ````bash
-wget -q --show-progress -r -nH  http://cs.optic.gob.do/paquetes/;
+wget -q --show-progress -r -nH  http://cs.ogtic.gob.do/paquetes/;
 ````
 
 
