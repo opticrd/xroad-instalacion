@@ -1,4 +1,4 @@
-![República Dominicana](../assets/presidencia.svg)
+**NOTA IMPORTANTE: Esta es la instalación de la versión 6.22 la cual está obsoleta. Esta documentación debe usarse únicamente para fines informativos.**
 
 ------
 
